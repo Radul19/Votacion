@@ -12,6 +12,7 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node src/index.js",
     "test": "nodemon src/index.js",
     "sass": "node-sass -w src/public/sass -o src/public/css"
   },
