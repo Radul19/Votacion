@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+html(lang="en")
+    head
+        meta(charset="UTF-8")
+        meta(name="viewport" content="width=device-width, initial-scale=1.0")
+        link(rel="stylesheet", href="/css/index.css")
+        title Votación
+    body
+        header.header
+            img.logo(src="/img/logo.png", alt="")
+            h1 U.E.P Isabel Maldonado Blanco
+                p Votación para ajuste de mensualidad
+                p Periodo 2020-2021
+
+        article.content 
+            form#form.form(action="/send" method="POST")
+                h1.title Votación 
+                label.label(for="grade") Grado :
+                select#grade.grade.item(name="grade")
+                    option(value="none") Seleccione una opción
+                    option(value="1") Kinder
+                    option(value="2") Preparatiorio
+                    option(value="3") 1er Grado
+                    option(value="4") 2do Grado
+                    option(value="5") 3ro Grado
+                    option(value="6") 4to Grado
+                    option(value="7") 5to Grado
+                    option(value="8") 6to Grado
+                    option(value="9") 1er Año
+                    option(value="10") 2do Año
+                    option(value="11") 3ro Año
+                    option(value="12") 4to Año 
+                    option(value="13") 5to Año
+                label.label(for="familia") Familia :
+                select#family.item(type="text", name="family" disabled)
+                label.label.question(for="answer") ¿Está usted de acuerdo con el aumento de la mensualidad?
+                .divs
+                    .divYes
+                        label.title(for="yes") Si
+                        input#yesCheck(type="checkbox", name="vote" value="yes")
+                    .divNo
+                        label.title No
+                        input#noCheck(type="checkbox", name="vote" value="no")
+                button#button.btn(type="submit") Aceptar
+            a.link(href="/result") Ver resultados
+        #abs-message.abs-message
+            .abs-div
+                p ¿Está seguro que su decisión es...?
+                p#choise
+
+                .buttons
+                    button#cancel Cancelar
+                    button#continue Continuar
+
+
+        script(src="/scripts/indx.js")

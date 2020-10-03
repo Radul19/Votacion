@@ -1,0 +1,73 @@
+body {
+  font-family: sans-serif;
+  color: #393b44;
+  width: 100vw;
+  height: 100vh;
+  margin: 0px; }
+
+.header {
+  width: 100%;
+  background-color: #0278ae;
+  height: 20vh;
+  display: grid;
+  grid-template-columns: 1fr 8fr 1fr;
+  color: white;
+  box-sizing: border-box; }
+  .header h1 {
+    font-size: 2.5em;
+    text-align: center;
+    line-height: .3em;
+    text-align: center; }
+  .header .logo {
+    width: 19vh;
+    height: 19vh;
+    border: none;
+    margin: 1vh 1em; }
+
+.content {
+  display: flex;
+  flex-direction: column; }
+  .content .box {
+    width: 50vw;
+    background-color: #e8e8e8;
+    margin: 2em auto;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black; }
+    .content .box .answer {
+      font-size: 2.5rem;
+      margin: .5em 0px;
+      font-weight: bold; }
+    .content .box h1 {
+      text-align: center;
+      font-size: 3em;
+      margin: 0px auto; }
+    .content .box .bar {
+      width: 100%;
+      margin: 2em 0px; }
+      .content .box .bar .text {
+        color: white;
+        margin: auto 1em;
+        font-size: 1.2em;
+        line-height: 2rem; }
+    .content .box .percentYes {
+      background-color: #81b214;
+      height: 2em; }
+    .content .box .percentNo {
+      background-color: #931a25;
+      height: 2em; }
+
+.link {
+  margin: .5em auto;
+  text-decoration: none;
+  font-size: 1.5em; }
+
+.total {
+  font-size: 1.5em;
+  margin: 0px;
+  text-align: center; }
+
+#total {
+  font-size: 1.7em;
+  font-weight: bold; }

@@ -1,0 +1,133 @@
+body {
+  position: relative;
+  font-family: sans-serif;
+  color: #393b44;
+  width: 100vw;
+  height: 100vh;
+  margin: 0px; }
+
+.header {
+  width: 100%;
+  background-color: #0278ae;
+  height: 20vh;
+  display: grid;
+  grid-template-columns: 1fr 8fr 1fr;
+  color: white;
+  box-sizing: border-box; }
+  .header h1 {
+    font-size: 2.5em;
+    text-align: center;
+    line-height: .3em;
+    text-align: center; }
+  .header .logo {
+    width: 19vh;
+    height: 19vh;
+    border: none;
+    margin: 1vh 1em; }
+
+.content {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
+  .content .form {
+    width: 30%;
+    height: 50%;
+    margin: 3em auto;
+    display: flex;
+    flex-direction: column;
+    background-color: #f6f5f5;
+    border: 1px solid black;
+    padding: 1em; }
+    .content .form .grade {
+      font-size: 1.2em;
+      height: 2em; }
+    .content .form .item {
+      margin: .5em;
+      font-size: 1.2em;
+      padding: .2em; }
+    .content .form .title {
+      margin: 0px auto;
+      font-size: 2em; }
+    .content .form .label {
+      font-size: 1.4em;
+      margin: .5em; }
+    .content .form .divs {
+      display: flex;
+      width: 100%;
+      justify-content: space-around;
+      padding: .5em; }
+      .content .form .divs div {
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: center;
+        align-content: center;
+        padding: 1em; }
+        .content .form .divs div .title {
+          font-size: 1.6em;
+          margin: auto; }
+        .content .form .divs div input {
+          height: 1.5em;
+          width: 1.5em;
+          margin-top: 3px;
+          margin-right: 5px; }
+    .content .form .btn {
+      width: 30%;
+      padding: 1rem 2rem;
+      margin: .5rem auto;
+      background-color: #81b214;
+      border: none;
+      color: white;
+      font-size: 1.2em; }
+
+.question {
+  margin: 2em auto 0px !important;
+  font-weight: bold;
+  text-align: center; }
+
+.link {
+  margin: .5em auto;
+  text-decoration: none;
+  font-size: 1.5em; }
+
+.abs-message {
+  position: absolute;
+  display: none;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  background-color: #0000006c;
+  box-sizing: border-box;
+  z-index: 5; }
+  .abs-message .abs-div {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    background-color: white;
+    border-radius: 5px;
+    width: 25vw; }
+    .abs-message .abs-div p {
+      text-align: center;
+      font-size: 2em; }
+    .abs-message .abs-div .buttons {
+      display: flex;
+      margin: 1.5em 0px; }
+      .abs-message .abs-div .buttons #continue {
+        background-color: #81b214;
+        border: none;
+        color: white;
+        padding: 1rem;
+        margin: 0px auto;
+        font-size: 1.2em; }
+      .abs-message .abs-div .buttons #cancel {
+        background-color: #931a25;
+        border: none;
+        color: white;
+        padding: 1rem;
+        margin: 0px auto;
+        font-size: 1.2em; }
+
+#choise {
+  margin: 0px;
+  font-weight: bold; }

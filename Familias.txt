@@ -1,0 +1,1193 @@
+[
+{
+"Familia":"CEDEÑO MONTIEL",
+"Grado":"13",
+"Voto":false
+},
+{
+"Familia":"LOMBARDI NAVARRO",
+"Grado":"13",
+"Voto":false
+},
+{
+"Familia":"CAMPOS BARBOZA",
+"Grado":"13",
+"Voto":false
+},
+{
+"Familia":"CAMPOS RODRIGUEZ",
+"Grado":"13",
+"Voto":false
+},
+{
+"Familia":"DI MARCANTONIO IBARRA",
+"Grado":"13",
+"Voto":false
+},
+{
+"Familia":"FERNANDEZ CAMPOS",
+"Grado":"13",
+"Voto":false
+},
+{
+"Familia":"FERRER TOYO",
+"Grado":"13",
+"Voto":false
+},
+{
+"Familia":"ICHTAY MUNDER",
+"Grado":"13",
+"Voto":false
+},
+{
+"Familia":"JIMENEZ ZARA",
+"Grado":"13",
+"Voto":false
+},
+{
+"Familia":"LÓPEZ NAVA",
+"Grado":"13",
+"Voto":false
+},
+{
+"Familia":"PEREZ BAUZA",
+"Grado":"13",
+"Voto":false
+},
+{
+"Familia":"PEROZO ALDANA",
+"Grado":"13",
+"Voto":false
+},
+{
+"Familia":"REYES BUCOBO",
+"Grado":"13",
+"Voto":false
+},
+{
+"Familia":"REYES CORONEL",
+"Grado":"13",
+"Voto":false
+},
+{
+"Familia":"REYES VILLEGAS",
+"Grado":"13",
+"Voto":false
+},
+{
+"Familia":"RODRIGUEZ GUERRA",
+"Grado":"13",
+"Voto":false
+},
+{
+"Familia":"ROMERO MACHADO",
+"Grado":"13",
+"Voto":false
+},
+{
+"Familia":"VALENTE ATENCIO",
+"Grado":"13",
+"Voto":false
+},
+{
+"Familia":"VITTIGLI LUTI",
+"Grado":"13",
+"Voto":false
+},
+{
+"Familia":"BAUZA VILLARROEL",
+"Grado":"12",
+"Voto":false
+},
+{
+"Familia":"BERMUDEZ INFANTE",
+"Grado":"12",
+"Voto":false
+},
+{
+"Familia":"BOADA BORJAS",
+"Grado":"12",
+"Voto":false
+},
+{
+"Familia":"CABELLO GUTIERREZ",
+"Grado":"12",
+"Voto":false
+},
+{
+"Familia":"FERMIN MELENDEZ",
+"Grado":"12",
+"Voto":false
+},
+{
+"Familia":"GÓMEZ (REYES - NAVA)",
+"Grado":"12",
+"Voto":false
+},
+{
+"Familia":"GUTIÉRREZ GAMEZ",
+"Grado":"12",
+"Voto":false
+},
+{
+"Familia":"KARAME PEREZ",
+"Grado":"12",
+"Voto":false
+},
+{
+"Familia":"LOVERA GOMEZ",
+"Grado":"12",
+"Voto":false
+},
+{
+"Familia":"MARTINEZ CORONADO",
+"Grado":"12",
+"Voto":false
+},
+{
+"Familia":"NAVAS OBERTO",
+"Grado":"12",
+"Voto":false
+},
+{
+"Familia":"OLIVEROS CASTILLO",
+"Grado":"12",
+"Voto":false
+},
+{
+"Familia":"PARRA AFRICANO",
+"Grado":"12",
+"Voto":false
+},
+{
+"Familia":"PEÑA ST AUBYN",
+"Grado":"12",
+"Voto":false
+},
+{
+"Familia":"RINALDO SULBARAN",
+"Grado":"12",
+"Voto":false
+},
+{
+"Familia":"RINCON PEROZO",
+"Grado":"12",
+"Voto":false
+},
+{
+"Familia":"RODRÍGUEZ SIERRALTA",
+"Grado":"12",
+"Voto":false
+},
+{
+"Familia":"TOYO CHIRINOS",
+"Grado":"12",
+"Voto":false
+},
+{
+"Familia":"BERMUDEZ GUTIERREZ",
+"Grado":"11",
+"Voto":false
+},
+{
+"Familia":"CALDERA MENDEZ",
+"Grado":"11",
+"Voto":false
+},
+{
+"Familia":"CAPURSI FERRER",
+"Grado":"11",
+"Voto":false
+},
+{
+"Familia":"CARMONA VALBUENA",
+"Grado":"11",
+"Voto":false
+},
+{
+"Familia":"COLINA DURAN",
+"Grado":"11",
+"Voto":false
+},
+{
+"Familia":"GONZÁLEZ ROMERO",
+"Grado":"11",
+"Voto":false
+},
+{
+"Familia":"INFANTE TIGRERA",
+"Grado":"11",
+"Voto":false
+},
+{
+"Familia":"MANEIRO YANEZ",
+"Grado":"11",
+"Voto":false
+},
+{
+"Familia":"MARTÍNEZ ROVERO",
+"Grado":"11",
+"Voto":false
+},
+{
+"Familia":"NAVA SALAZAR",
+"Grado":"11",
+"Voto":false
+},
+{
+"Familia":"PALLADINO LUZARDO",
+"Grado":"11",
+"Voto":false
+},
+{
+"Familia":"PRIETO MEDINA",
+"Grado":"11",
+"Voto":false
+},
+{
+"Familia":"QUIROZ BAUTISTA",
+"Grado":"11",
+"Voto":false
+},
+{
+"Familia":"RIVAS SALAZAR",
+"Grado":"11",
+"Voto":false
+},
+{
+"Familia":"ROMERO ZABALA",
+"Grado":"11",
+"Voto":false
+},
+{
+"Familia":"SALAS KESIA - SALAS ZAMBRANO",
+"Grado":"11",
+"Voto":false
+},
+{
+"Familia":"SUÁREZ CORONEL",
+"Grado":"11",
+"Voto":false
+},
+{
+"Familia":"ULACIO POLENTINO (ULA. MONTIEL)",
+"Grado":"11",
+"Voto":false
+},
+{
+"Familia":"ABOU TARIE ASSAF",
+"Grado":"10",
+"Voto":false
+},
+{
+"Familia":"ACOSTA MORAN",
+"Grado":"10",
+"Voto":false
+},
+{
+"Familia":"ASSALI DALUL",
+"Grado":"10",
+"Voto":false
+},
+{
+"Familia":"BRITO GONZALEZ",
+"Grado":"10",
+"Voto":false
+},
+{
+"Familia":"CASTELLANOS LÓPEZ",
+"Grado":"10",
+"Voto":false
+},
+{
+"Familia":"CASTRO SOLIS",
+"Grado":"10",
+"Voto":false
+},
+{
+"Familia":"COLINA DOMINGUEZ",
+"Grado":"10",
+"Voto":false
+},
+{
+"Familia":"FARÍA ROMERO",
+"Grado":"10",
+"Voto":false
+},
+{
+"Familia":"GARCÍA BARRIENTOS",
+"Grado":"10",
+"Voto":false
+},
+{
+"Familia":"MATOS BRACHO",
+"Grado":"10",
+"Voto":false
+},
+{
+"Familia":"MORENO LOPEZ",
+"Grado":"10",
+"Voto":false
+},
+{
+"Familia":"NAVA ABOUASSI",
+"Grado":"10",
+"Voto":false
+},
+{
+"Familia":"NAVEDA NAVA",
+"Grado":"10",
+"Voto":false
+},
+{
+"Familia":"PONSON BASTIANELLI",
+"Grado":"10",
+"Voto":false
+},
+{
+"Familia":"RODRIGUEZ
+RONDON",
+"Grado":"10",
+"Voto":false
+},
+{
+"Familia":"ROMERO MACHADO",
+"Grado":"10",
+"Voto":false
+},
+{
+"Familia":"RONDON MARQUEZ",
+"Grado":"10",
+"Voto":false
+},
+{
+"Familia":"URDANETA REYES",
+"Grado":"10",
+"Voto":false
+},
+{
+"Familia":"ACOSTA DELGADO",
+"Grado":"9",
+"Voto":false
+},
+{
+"Familia":"ANZOLA FRONTADO",
+"Grado":"9",
+"Voto":false
+},
+{
+"Familia":"ARENAS GOMEZ",
+"Grado":"9",
+"Voto":false
+},
+{
+"Familia":"BRAVO NAVARRO",
+"Grado":"9",
+"Voto":false
+},
+{
+"Familia":"BRITO HERNANDEZ",
+"Grado":"9",
+"Voto":false
+},
+{
+"Familia":"CALDERA
+GUTIÉRREZ",
+"Grado":"9",
+"Voto":false
+},
+{
+"Familia":"CALDERA
+VILLARROEL",
+"Grado":"9",
+"Voto":false
+},
+{
+"Familia":"FERNANDEZ
+VILLASMIL",
+"Grado":"9",
+"Voto":false
+},
+{
+"Familia":"GONZALEZ
+SANDREA",
+"Grado":"9",
+"Voto":false
+},
+{
+"Familia":"LANDAETA
+GUTIERREZ",
+"Grado":"9",
+"Voto":false
+},
+{
+"Familia":"LEON GOMEZ",
+"Grado":"9",
+"Voto":false
+},
+{
+"Familia":"MÁRQUEZ DÍAZ",
+"Grado":"9",
+"Voto":false
+},
+{
+"Familia":"MAVAREZ OLIVEROS",
+"Grado":"9",
+"Voto":false
+},
+{
+"Familia":"MEDINA PARILLI",
+"Grado":"9",
+"Voto":false
+},
+{
+"Familia":"MOUNTHER ICHTAY",
+"Grado":"9",
+"Voto":false
+},
+{
+"Familia":"NAVA PINTO",
+"Grado":"9",
+"Voto":false
+},
+{
+"Familia":"PALENCIA
+NOGUERA",
+"Grado":"9",
+"Voto":false
+},
+{
+"Familia":"PINTO HDEZ.- PINTO
+CHAPARRO",
+"Grado":"9",
+"Voto":false
+},
+{
+"Familia":"QUINTERO
+POCATERRA",
+"Grado":"9",
+"Voto":false
+},
+{
+"Familia":"RAMOS MONTILLA",
+"Grado":"9",
+"Voto":false
+},
+{
+"Familia":"SILVA PERAZA",
+"Grado":"9",
+"Voto":false
+},
+{
+"Familia":"VISLIQUEZ IBARRA",
+"Grado":"9",
+"Voto":false
+},
+{
+"Familia":"ZAMBRANO PADILLA",
+"Grado":"9",
+"Voto":false
+},
+{
+"Familia":"ACOSTA MARTINEZ",
+"Grado":"8",
+"Voto":false
+},
+{
+"Familia":"AZUAJE ISAMBERT",
+"Grado":"8",
+"Voto":false
+},
+{
+"Familia":"BERMUDEZ
+MANZANO",
+"Grado":"8",
+"Voto":false
+},
+{
+"Familia":"BRITO BORJAS",
+"Grado":"8",
+"Voto":false
+},
+{
+"Familia":"CHACIN PRIETO",
+"Grado":"8",
+"Voto":false
+},
+{
+"Familia":"DOMINGUEZ
+GONZALEZ",
+"Grado":"8",
+"Voto":false
+},
+{
+"Familia":"EL KONTAR
+RODRÍGUEZ",
+"Grado":"8",
+"Voto":false
+},
+{
+"Familia":"GOITIA CARIDAD
+(PEREZ CARIDAD)",
+"Grado":"8",
+"Voto":false
+},
+{
+"Familia":"GUTIÉRREZ DIAZ",
+"Grado":"8",
+"Voto":false
+},
+{
+"Familia":"HERNÁNDEZ
+MINDIOLA",
+"Grado":"8",
+"Voto":false
+},
+{
+"Familia":"HERRERA
+QUINTERO",
+"Grado":"8",
+"Voto":false
+},
+{
+"Familia":"LO PRESTI
+FERNÁNDEZ",
+"Grado":"8",
+"Voto":false
+},
+{
+"Familia":"MOLINA SOCORRO",
+"Grado":"8",
+"Voto":false
+},
+{
+"Familia":"NARVAEZ
+GONZÁLEZ",
+"Grado":"8",
+"Voto":false
+},
+{
+"Familia":"PIDUTTI TIGRERA",
+"Grado":"8",
+"Voto":false
+},
+{
+"Familia":"POZO GARCIA",
+"Grado":"8",
+"Voto":false
+},
+{
+"Familia":"RODRIGUEZ DABOIN",
+"Grado":"8",
+"Voto":false
+},
+{
+"Familia":"RODRIGUEZ
+GUTIERREZ",
+"Grado":"8",
+"Voto":false
+},
+{
+"Familia":"SALAZAR GZLEZ.-
+PIRELA GZLEZ.",
+"Grado":"8",
+"Voto":false
+},
+{
+"Familia":"TOYO PARIS",
+"Grado":"8",
+"Voto":false
+},
+{
+"Familia":"ZICCARDI ACOSTA",
+"Grado":"8",
+"Voto":false
+},
+{
+"Familia":"AÑEZ OLIVARES",
+"Grado":"7",
+"Voto":false
+},
+{
+"Familia":"BARROSO SOSA",
+"Grado":"7",
+"Voto":false
+},
+{
+"Familia":"BRACHO OCHOA",
+"Grado":"7",
+"Voto":false
+},
+{
+"Familia":"CARRASSI FLORES",
+"Grado":"7",
+"Voto":false
+},
+{
+"Familia":"CERRADA JIMENEZ",
+"Grado":"7",
+"Voto":false
+},
+{
+"Familia":"FERNANDEZ PIRONA",
+"Grado":"7",
+"Voto":false
+},
+{
+"Familia":"FERNÁNDEZ
+VILLANUEVA",
+"Grado":"7",
+"Voto":false
+},
+{
+"Familia":"FREITES URRIBARRI",
+"Grado":"7",
+"Voto":false
+},
+{
+"Familia":"GOMEZ GUTIERREZ",
+"Grado":"7",
+"Voto":false
+},
+{
+"Familia":"GOMEZ VALERO",
+"Grado":"7",
+"Voto":false
+},
+{
+"Familia":"IZZI SAAVEDRA",
+"Grado":"7",
+"Voto":false
+},
+{
+"Familia":"JADOU ALHEJRI",
+"Grado":"7",
+"Voto":false
+},
+{
+"Familia":"LOPEZ CUETO",
+"Grado":"7",
+"Voto":false
+},
+{
+"Familia":"LÓPEZ URDANETA",
+"Grado":"7",
+"Voto":false
+},
+{
+"Familia":"MANZANO PEROZO",
+"Grado":"7",
+"Voto":false
+},
+{
+"Familia":"MEDINA RIVERO",
+"Grado":"7",
+"Voto":false
+},
+{
+"Familia":"MORALES DIAZ",
+"Grado":"7",
+"Voto":false
+},
+{
+"Familia":"NAVA MARTÍNEZ",
+"Grado":"7",
+"Voto":false
+},
+{
+"Familia":"OTAMENDI
+LANDAETA",
+"Grado":"7",
+"Voto":false
+},
+{
+"Familia":"WOODROFF
+OTAMENDI",
+"Grado":"7",
+"Voto":false
+},
+{
+"Familia":"AMER MIMSANI",
+"Grado":"6",
+"Voto":false
+},
+{
+"Familia":"BÁEZ CARDOZO",
+"Grado":"6",
+"Voto":false
+},
+{
+"Familia":"GÓMEZ MOLINA",
+"Grado":"6",
+"Voto":false
+},
+{
+"Familia":"HERNANDEZ
+BERMUDEZ",
+"Grado":"6",
+"Voto":false
+},
+{
+"Familia":"ICHTAY OULBEH",
+"Grado":"6",
+"Voto":false
+},
+{
+"Familia":"LEAL GUILLÉN",
+"Grado":"6",
+"Voto":false
+},
+{
+"Familia":"MANZANO LOAIZA",
+"Grado":"6",
+"Voto":false
+},
+{
+"Familia":"MATA OLIVARES",
+"Grado":"6",
+"Voto":false
+},
+{
+"Familia":"MELÉNDEZ LAGUNA",
+"Grado":"6",
+"Voto":false
+},
+{
+"Familia":"PÉREZ TALAVERA",
+"Grado":"6",
+"Voto":false
+},
+{
+"Familia":"QUEVEDO SUÁREZ",
+"Grado":"6",
+"Voto":false
+},
+{
+"Familia":"REYES CASTILLO",
+"Grado":"6",
+"Voto":false
+},
+{
+"Familia":"ROMERO FERRER",
+"Grado":"6",
+"Voto":false
+},
+{
+"Familia":"VILCHEZ LÁREZ",
+"Grado":"6",
+"Voto":false
+},
+{
+"Familia":"ALNABWANY EL
+NABOUANY",
+"Grado":"5",
+"Voto":false
+},
+{
+"Familia":"ATENCIO
+FUENMAYOR",
+"Grado":"5",
+"Voto":false
+},
+{
+"Familia":"FUENMAYOR
+FERNÁNDEZ",
+"Grado":"5",
+"Voto":false
+},
+{
+"Familia":"DELGADO MEDINA",
+"Grado":"5",
+"Voto":false
+},
+{
+"Familia":"GONZÁLEZ PIÑA",
+"Grado":"5",
+"Voto":false
+},
+{
+"Familia":"LÓPEZ ARAUJO",
+"Grado":"5",
+"Voto":false
+},
+{
+"Familia":"MALDONADO
+FERNÁNDEZ",
+"Grado":"5",
+"Voto":false
+},
+{
+"Familia":"MARADEY
+ORTIGOZA",
+"Grado":"5",
+"Voto":false
+},
+{
+"Familia":"MARCANO LEON",
+"Grado":"5",
+"Voto":false
+},
+{
+"Familia":"MÉNDEZ VEGA",
+"Grado":"5",
+"Voto":false
+},
+{
+"Familia":"MOURAD URRIBARRÍ",
+"Grado":"5",
+"Voto":false
+},
+{
+"Familia":"MUJICA CASTILLO",
+"Grado":"5",
+"Voto":false
+},
+{
+"Familia":"OBERTO CORDERO",
+"Grado":"5",
+"Voto":false
+},
+{
+"Familia":"RODRÍGUEZ RIVERO",
+"Grado":"5",
+"Voto":false
+},
+{
+"Familia":"SANTIAGO
+MARTÍNEZ",
+"Grado":"5",
+"Voto":false
+},
+{
+"Familia":"TIGRERA PIÑA",
+"Grado":"5",
+"Voto":false
+},
+{
+"Familia":"CALDERÓN
+ALVARADO",
+"Grado":"4",
+"Voto":false
+},
+{
+"Familia":"DE RUBEIS
+CARBALLO",
+"Grado":"4",
+"Voto":false
+},
+{
+"Familia":"GARCIA GOMEZ",
+"Grado":"4",
+"Voto":false
+},
+{
+"Familia":"GARCÍA ROMERO",
+"Grado":"4",
+"Voto":false
+},
+{
+"Familia":"GONZÁLEZ PADRÓN",
+"Grado":"4",
+"Voto":false
+},
+{
+"Familia":"LEÓN PINTO",
+"Grado":"4",
+"Voto":false
+},
+{
+"Familia":"MANZANO ACOSTA",
+"Grado":"4",
+"Voto":false
+},
+{
+"Familia":"MARÍN BORJAS",
+"Grado":"4",
+"Voto":false
+},
+{
+"Familia":"QUIROZ FLORES",
+"Grado":"4",
+"Voto":false
+},
+{
+"Familia":"RODRÍGUEZ
+MAVAREZ",
+"Grado":"4",
+"Voto":false
+},
+{
+"Familia":"ROJAS REYES",
+"Grado":"4",
+"Voto":false
+},
+{
+"Familia":"ROMERO
+FERNANDEZ",
+"Grado":"4",
+"Voto":false
+},
+{
+"Familia":"URRIBARRÍ
+RODRÍGUEZ",
+"Grado":"4",
+"Voto":false
+},
+{
+"Familia":"VILLARROEL
+CAMPOS",
+"Grado":"4",
+"Voto":false
+},
+{
+"Familia":"VILLEGAS ANDASOL",
+"Grado":"4",
+"Voto":false
+},
+{
+"Familia":"YARBOUH EL NIMER",
+"Grado":"4",
+"Voto":false
+},
+{
+"Familia":"BENCOMO
+NAVARRO",
+"Grado":"3",
+"Voto":false
+},
+{
+"Familia":"BENITEZ PEROZO",
+"Grado":"3",
+"Voto":false
+},
+{
+"Familia":"CASTRO
+RODRÍGUEZ",
+"Grado":"3",
+"Voto":false
+},
+{
+"Familia":"CORDOBA OCANDO",
+"Grado":"3",
+"Voto":false
+},
+{
+"Familia":"ECHTAY ALSHEBEL",
+"Grado":"3",
+"Voto":false
+},
+{
+"Familia":"ESCOBAR
+MARTÍNEZ",
+"Grado":"3",
+"Voto":false
+},
+{
+"Familia":"GARCÍA BENÍTEZ",
+"Grado":"3",
+"Voto":false
+},
+{
+"Familia":"GUANIPA MEDINA",
+"Grado":"3",
+"Voto":false
+},
+{
+"Familia":"GUTIERREZ
+VILCHEZ",
+"Grado":"3",
+"Voto":false
+},
+{
+"Familia":"HERNANDEZ
+FRISANCHO",
+"Grado":"3",
+"Voto":false
+},
+{
+"Familia":"LEAL RIVAS",
+"Grado":"3",
+"Voto":false
+},
+{
+"Familia":"LIZARDO CARDONA",
+"Grado":"3",
+"Voto":false
+},
+{
+"Familia":"NORIEGA DIAZ",
+"Grado":"3",
+"Voto":false
+},
+{
+"Familia":"PÁEZ CORONEL",
+"Grado":"3",
+"Voto":false
+},
+{
+"Familia":"RAMOS DIAZ",
+"Grado":"3",
+"Voto":false
+},
+{
+"Familia":"SATURNINO
+URRIETA",
+"Grado":"3",
+"Voto":false
+},
+{
+"Familia":"VARGAS FERMIN",
+"Grado":"3",
+"Voto":false
+},
+{
+"Familia":"BORGES CAMARGO",
+"Grado":"2",
+"Voto":false
+},
+{
+"Familia":"CARDOZO",
+"Grado":"2",
+"Voto":false
+},
+{
+"Familia":"CEDEÑO MOTA",
+"Grado":"2",
+"Voto":false
+},
+{
+"Familia":"ESPINEL LOPEZ",
+"Grado":"2",
+"Voto":false
+},
+{
+"Familia":"GOTERA MONTIEL",
+"Grado":"2",
+"Voto":false
+},
+{
+"Familia":"ICHTAY SOTO",
+"Grado":"2",
+"Voto":false
+},
+{
+"Familia":"LEAL MEDINA",
+"Grado":"2",
+"Voto":false
+},
+{
+"Familia":"LÓPEZ PINEDA",
+"Grado":"2",
+"Voto":false
+},
+{
+"Familia":"PARRA GARCIA",
+"Grado":"2",
+"Voto":false
+},
+{
+"Familia":"PINILLO GONZÁLEZ",
+"Grado":"2",
+"Voto":false
+},
+{
+"Familia":"RODRIGUEZ
+ALVARADO",
+"Grado":"2",
+"Voto":false
+},
+{
+"Familia":"ROMERO ROMERO",
+"Grado":"2",
+"Voto":false
+},
+{
+"Familia":"SANCHEZ
+ALVARADO",
+"Grado":"2",
+"Voto":false
+},
+{
+"Familia":"SANCHEZ ARAUJO",
+"Grado":"2",
+"Voto":false
+},
+{
+"Familia":"ABDUL KHALEK
+SALAZAR",
+"Grado":"1",
+"Voto":false
+},
+{
+"Familia":"AÑEZ CARBALLO",
+"Grado":"1",
+"Voto":false
+},
+{
+"Familia":"ARENAS BORJAS",
+"Grado":"1",
+"Voto":false
+},
+{
+"Familia":"BASTIANELLI
+CHACIN",
+"Grado":"1",
+"Voto":false
+},
+{
+"Familia":"FERRER PADRON",
+"Grado":"1",
+"Voto":false
+},
+{
+"Familia":"FERRO MONTIEL",
+"Grado":"1",
+"Voto":false
+},
+{
+"Familia":"HENRIQUEZ RINCON",
+"Grado":"1",
+"Voto":false
+},
+{
+"Familia":"HERNANDEZ
+ROMERO",
+"Grado":"1",
+"Voto":false
+},
+{
+"Familia":"LOPEZ PRIETO",
+"Grado":"1",
+"Voto":false
+},
+{
+"Familia":"LUGO BORJAS",
+"Grado":"1",
+"Voto":false
+},
+{
+"Familia":"MARCANO SILVEIRA",
+"Grado":"1",
+"Voto":false
+},
+{
+"Familia":"NAME RIVAS",
+"Grado":"1",
+"Voto":false
+},
+{
+"Familia":"PEREZ SEGOVIA",
+"Grado":"1",
+"Voto":false
+},
+{
+"Familia":"RUZ SANZ",
+"Grado":"1",
+"Voto":false
+},
+{
+"Familia":"ZICCARDI ROJAS",
+"Grado":"1",
+"Voto":false
+}
+]

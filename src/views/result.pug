@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+html(lang="en")
+    head
+        meta(charset="UTF-8")
+        meta(name="viewport" content="width=device-width, initial-scale=1.0")
+        link(rel="stylesheet", href="/css/result.css")
+        title Votación
+    body
+        header.header
+            img.logo(src="/img/logo.png", alt="")
+            h1 U.E.P Isabel Maldonado Blanco
+                p Votación para ajuste de mensualidad
+                p Periodo 2020-2021
+
+        article.content
+            .box
+                h1 Resultados
+                .bar
+                    p.answer Si
+                    #yes.percentYes
+                .bar
+                    p.answer No
+                    #no.percentNo
+                .bar
+                    p.total TOTAL DE VOTOS REALIZADOS
+                    p#total.total
+            a.link(href="/") Pagina principal
+        
+        script(src="/scripts/percent.js")
