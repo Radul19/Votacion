@@ -54,6 +54,7 @@ grade.addEventListener('change',(e)=>{
         })
         .then(res => res.json())
         .then(data => {
+            console.log(data);
             const fragment = document.createDocumentFragment()
             for(each of data){
                 if(each.Voto == false){
