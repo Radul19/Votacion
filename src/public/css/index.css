@@ -3,42 +3,48 @@ body {
   font-family: sans-serif;
   color: #393b44;
   width: 100vw;
-  height: 100vh;
-  margin: 0px; }
+  height: auto;
+  margin: 0px;
+  overflow-x: hidden; }
 
 .header {
   width: 100%;
   background-color: #0278ae;
-  height: 20vh;
+  min-height: 10vh;
+  max-height: 15vh;
   display: grid;
   grid-template-columns: 1fr 8fr 1fr;
   color: white;
   box-sizing: border-box; }
   .header h1 {
-    font-size: 2.5em;
+    font-size: 1.5em;
     text-align: center;
-    line-height: .3em;
+    line-height: 1em;
     text-align: center; }
   .header .logo {
-    width: 19vh;
-    height: 19vh;
+    width: auto;
+    min-height: 9vh;
+    max-height: 14vh;
     border: none;
     margin: 1vh 1em; }
 
 .content {
-  width: 95;
+  width: 100vw;
   height: auto;
   margin: auto;
+  display: grid;
   display: flex;
-  justify-content: space-between; }
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; }
   .content .instructions, .content .considerations {
-    width: 30vw;
     height: auto;
-    margin: auto 1em;
-    font-size: 1.5em; }
+    margin: auto 2em;
+    font-size: 1.2em; }
+    .content .instructions h1, .content .considerations h1 {
+      text-align: center; }
   .content .form {
-    width: 30vw;
-    height: 50%;
+    height: auto;
     margin: 3em auto;
     display: flex;
     flex-direction: column;
@@ -85,8 +91,6 @@ body {
       border: none;
       color: white;
       font-size: 1.2em; }
-  .content .considerations {
-    width: 30vw; }
 
 .question {
   margin: 2em auto 0px !important;
@@ -94,9 +98,11 @@ body {
   text-align: center; }
 
 .link {
+  width: 200px;
   margin: .5em auto;
   text-decoration: none;
-  font-size: 1.5em; }
+  font-size: 1.5em;
+  text-align: center; }
 
 .abs-message {
   position: absolute;
@@ -138,3 +144,7 @@ body {
 #choise {
   margin: 0px;
   font-weight: bold; }
+
+.flex-item {
+  width: 80%;
+  margin: auto; }

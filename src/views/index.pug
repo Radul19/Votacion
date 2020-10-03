@@ -13,14 +13,16 @@ html(lang="en")
                 p Periodo 2020-2021
 
         article.content
-            .instructions
-                p – Seleccione el grado donde se encuentre inscrito su representado. Si tiene más de uno, seleccione el grado de su representado de mayor edad.
-                p – Seleccione en la lista el apellido o los apellidos de la familia a la cual pertenece.
-                p – Seleccione la opción de su preferencia.
-                P – Presione el botón “Votar.
+            a.link(href="/result") Ver resultados
+            .instructions.flex-item
+                h1 Instrucciones
+                p – 1. Seleccione el grado donde se encuentre inscrito su representado. Si tiene más de uno, seleccione el grado de su representado de mayor edad.
+                p – 2. Seleccione en la lista el apellido o los apellidos de la familia a la cual pertenece.
+                p – 3. Seleccione la opción de su preferencia.
+                P – 4. Presione el botón “Votar.
 
 
-            form#form.form(action="/send" method="POST")
+            form#form.form.flex-item(action="/send" method="POST")
                 h1.title Votación 
                 label.label(for="grade") Grado:
                 select#grade.grade.item(name="grade")
@@ -48,14 +50,15 @@ html(lang="en")
                     .divNo
                         label.title No
                         input#noCheck(type="checkbox", name="vote" value="no")
-                button#button.btn(type="submit") Aceptar
-            .considerations
+                button#button.btn(type="submit") Votar
+            .considerations.flex-item
+                h1 Consideraciones
                 P – Revise cuidadosamente que haya seleccionado los apellidos de la familia a cuál pertenece.
                 p – Una vez realizado el voto, los apellidos de su familia no aparecerán en el listado.
                 P – Si desea conocer los resultados, puede consultarlos haciendo clic en el enlace “Ver resultados”
                 P – Si presenta algún inconveniente con el proceso, contacte vía Whatsapp al número (0414) - 6206246
 
-            //- a.link(href="/result") Ver resultados
+            
         #abs-message.abs-message
             .abs-div
                 p ¿Está seguro que su decisión es...?
