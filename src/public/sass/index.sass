@@ -28,13 +28,20 @@ body
     margin: 1vh 1em
 
 .content
-  width: 100%
+  width: 95
   height: auto
+  margin: auto
   display: flex
-  flex-direction: column
-  justify-content: center
+  // flex-direction: column
+  justify-content: space-between
+  .instructions , .considerations
+    width: 30vw
+    height: auto
+    margin: auto 1em
+    font-size: 1.5em
+    // background-color: red
   .form
-    width: 30%
+    width: 30vw
     height: 50%
     margin: 3em auto
     display: flex
@@ -84,6 +91,8 @@ body
       border: none
       color: white
       font-size: 1.2em
+  .considerations
+    width: 30vw
 
 .question
   margin: 2em auto 0px !important
