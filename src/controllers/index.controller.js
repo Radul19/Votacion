@@ -17,7 +17,6 @@ ctrl.sendFamily = async (req,res)=>{
     res.send(findFamily)
 }
 ctrl.sendVote = async (req,res)=>{
-    console.log(req.body);
     const fam = await Family.findOne({Familia:req.body.family})
     const result = await Vote.findOne()
     fam.Voto = true

@@ -22,7 +22,6 @@ yesCheck.addEventListener('change',(e)=>{
     if(e.target.checked){
         noCheck.checked = false
     }
-    console.log(vote);
 })
 
 noCheck.addEventListener('change',(e)=>{
@@ -34,7 +33,6 @@ noCheck.addEventListener('change',(e)=>{
     if(e.target.checked){
         yesCheck.checked = false
     }
-    console.log(vote);
 })
 
 const grade = document.getElementById('grade')
@@ -54,7 +52,6 @@ grade.addEventListener('change',(e)=>{
         })
         .then(res => res.json())
         .then(data => {
-            console.log(data);
             const fragment = document.createDocumentFragment()
             for(each of data){
                 if(each.Voto == false){
@@ -63,7 +60,6 @@ grade.addEventListener('change',(e)=>{
                     option.textContent = each.Familia
                     fragment.append(option)
                 }
-                // console.log(each.Familia);
             }
             family.append(fragment)
         })
