@@ -49,7 +49,7 @@ grade.addEventListener('change',(e)=>{
             family.removeChild(family[0])
         }
         family.disabled = false
-        fetch(`/familyGrade/${e.target.value}`,{
+        fetch(`https://votacionesimb.herokuapp.com/send/familyGrade/${e.target.value}`,{
             method: "POST"
         })
         .then(res => res.json())
