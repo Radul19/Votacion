@@ -4,11 +4,11 @@ const router = Router()
 //Functions from...
 const {renderIndex,sendVote,sendFamily, renderPercent,renderResult,sendResults} = require('../controllers/index.controller')
 
-router.get('https://votacionesimb.herokuapp.com/',renderIndex)
-router.get('https://votacionesimb.herokuapp.com/percent',renderPercent)
-router.post('https://votacionesimb.herokuapp.com/familyGrade/:grade',sendFamily)
-router.post('https://votacionesimb.herokuapp.com/send',sendVote)
-router.get('https://votacionesimb.herokuapp.com/result',renderResult)
+router.get('/',renderIndex)
+router.get('/percent',renderPercent)
+router.post('/familyGrade/:grade',sendFamily)
+router.post('/send',sendVote)
+router.get('/result',renderResult)
 
-router.post('https://votacionesimb.herokuapp.com/results',sendResults)
+router.post('/results',sendResults)
 module.exports = router
